@@ -1,2 +1,2 @@
 # Paulo-Ricardo-deFreitas
-Site destinado a economia brasileira
+:bulb:Site destinado a economia brasileira
